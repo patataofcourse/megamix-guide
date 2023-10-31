@@ -4,7 +4,7 @@
 
 # Playing mods
 
-- [Getting started]()
+- [Getting started](./playing/getting_started/index.md)
     - [Getting started (3DS)]()
     - [Getting started (Citra)]()
 - [The basics]()

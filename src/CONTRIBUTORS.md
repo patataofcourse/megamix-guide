@@ -19,7 +19,7 @@ This is everyone who has contributed to this guide!
 - **minenice55** - Extracting cue data
 - **Average Air Rally Enjoyer** - Playing mods on a non-US console
 - **BobTheNerd10** - Combining multiple cue mods
-- **TerrariaTree** - Fixing the guide up
+- **TerrariaTree** - Guide maintainance
 
 ## Special thanks / research
 
