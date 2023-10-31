@@ -8,8 +8,9 @@ In order to run Megamix mods you'll need the following:
 - [RHMPatch](https://github.com/rhmodding/RHMPatch/releases/latest)
 
 The rest of the steps depend on what platform you're modding on:
-    - [Hardware (Nintendo 3DS console)](#hardware-nintendo-3ds-console)
-    - [Citra](#citra)
+
+- [Hardware (Nintendo 3DS console)](#hardware-nintendo-3ds-console)
+- [Citra](#citra)
 
 [^1]: If you're on a non-US 3DS, you still have to use the North American version of Megamix.
 
