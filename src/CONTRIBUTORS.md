@@ -8,11 +8,13 @@ This is everyone who has contributed to this guide!
 
 ### Older maintainers
 
-- **RedCrowNose** (original version of the Beginner's Guide)
-- **viviancherry** (newer version of the Beginner's Guide)
+- **RedCrowNose** (original version / v1 of the Beginner's Guide)
+- **viviancherry** (newer version / v2 of the Beginner's Guide)
 - **Aaronloll** (original author of "How to cue mod Megamix without hardware")
 
 ## Other contributors
+
+To the older revisions of the guide:
 
 - **DPS2004** - Animation mods / Bread
 - **CebolaBros** - Extracting single files

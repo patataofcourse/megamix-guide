@@ -4,13 +4,13 @@
 
 # Playing mods
 
-- [Getting started](./playing/getting_started/index.md)
-    - [Getting started (3DS)]()
+- [Getting started](./playing/getting_started.md)
+    - [Getting started (3DS US)]()
+    - [Getting started (3DS non-US)]()
     - [Getting started (Citra)]()
-- [The basics]()
+- [Running mods](./playing/running_mods.md)
     - [Using mods with an existing C00.bin]()
     - [Using texture or music mods]()
-    - [Playing mods on a non-US console]()
 - [How to combine multiple cue mods]()
 
 # Making mods
