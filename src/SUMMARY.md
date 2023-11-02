@@ -1,17 +1,12 @@
 # Summary
 
-1. [Introduction](./intro.md)
+- [Introduction](./intro.md)
 
 # Playing mods
 
 - [Getting started](./playing/getting_started.md)
-    - [Getting started (3DS US)]()
-    - [Getting started (3DS non-US)]()
-    - [Getting started (Citra)]()
 - [Running mods](./playing/running_mods.md)
-    - [Using mods with an existing C00.bin]()
-    - [Using texture or music mods]()
-- [How to combine multiple cue mods]()
+    - [Loading multiple mods at once](./playing/multi_mod.md)
 
 # Making mods
 
